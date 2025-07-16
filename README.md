@@ -23,6 +23,4 @@ Je suis **Nicolas Kaspric**, programmeur FrontEnd (React, TypeScript, SCSS) et B
 > **Côté interface** : créatif, réactif, orienté utilisateur  
 > **Côté serveur** : robuste, optimisé, orienté données  
 
----
 
-**Misez sur la polyvalence 🌟 :** un profil qui mêle esthétique et performance, convivialité et fiabilité.
