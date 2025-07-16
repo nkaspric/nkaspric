@@ -1,10 +1,5 @@
 ## 🔧 À propos de moi  
-Je suis **Nicolas Kaspric**, artisan du code, voyageur entre mondes frontend et backend. J’explore les univers React, Angular, HTML/CSS et JavaScript, pour créer des interfaces intuitives. Dans mes ateliers côté serveur, je sculpte des API et webservices en **C# & .NET (Framework & Core)**, avec **Entity Framework** comme fidèle compagnon.
-
----
-
-## 🌐 Environnement multi‑OS  
-Je ne fais pas de chichi : **Windows, Linux, macOS**… je m’adapte à tous les terrains.
+Je suis **Nicolas Kaspric**, programmeur FrontEnd (React, TypeScript, SCSS) et BackEnd (C# et NodeJS). J’explore ce que l'on peut faire avec un PC et VSCode.
 
 ---
 
@@ -14,23 +9,19 @@ Je ne fais pas de chichi : **Windows, Linux, macOS**… je m’adapte à tous le
 
 ---
 
-## 🧩 Pourquoi me suivre ?  
-- Je documente **l’évolution de mes projets**, avec code propre et commits réguliers  
+## 🛠️ Mes projets ici ?  
+- Evidement des projets improbables  
 - Contributions à **projets open-source**, avec passion et rigueur  
 - Je partage **tutos, astuces et retours d’expérience** autour de .NET et du frontend
+- Collaboration sur des webapps ou services robustes  
+- Échanger sur React, Angular, .NET ou bases SQL  
+- Découvrir de nouveaux paradigmes
 
 ---
 
 ## ⭐ En résumé  
 > **Côté interface** : créatif, réactif, orienté utilisateur  
 > **Côté serveur** : robuste, optimisé, orienté données  
-
----
-
-## 🛠️ Besoin ?  
-- Collaboration sur des webapps ou services robustes  
-- Échanger sur React, Angular, .NET ou bases SQL  
-- Découvrir de nouveaux paradigmes
 
 ---
 
